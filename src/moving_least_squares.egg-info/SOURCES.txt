@@ -1,0 +1,9 @@
+README.md
+mls.c
+pyproject.toml
+setup.py
+src/moving_least_squares/__init__.py
+src/moving_least_squares.egg-info/PKG-INFO
+src/moving_least_squares.egg-info/SOURCES.txt
+src/moving_least_squares.egg-info/dependency_links.txt
+src/moving_least_squares.egg-info/top_level.txt

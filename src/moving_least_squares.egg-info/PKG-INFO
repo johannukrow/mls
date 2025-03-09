@@ -1,0 +1,7 @@
+Metadata-Version: 2.2
+Name: moving-least-squares
+Version: 0.1.0
+Summary: A weighted similarity interpolation package implemented in Cython.
+Author-email: ukrowj <johann.ukrow@brain.mpg.de>
+License: MIT
+Description-Content-Type: text/markdown

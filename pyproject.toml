@@ -1,0 +1,19 @@
+[project]
+name = "moving-least-squares"
+version = "0.1.0"
+description = "A weighted similarity interpolation package implemented in Cython."
+authors = [
+    {name = "ukrowj", email = "johann.ukrow@brain.mpg.de"}
+]
+readme = "README.md"
+license = {text = "MIT"}
+
+[tool.poetry.dependencies]
+python = "^3.9"
+numpy = "^1.21"
+cython = "^0.29"
+setuptools = "^76.0.0"
+
+[build-system]
+requires = ["setuptools>=42", "wheel", "Cython", "numpy"]
+build-backend = "setuptools.build_meta"
